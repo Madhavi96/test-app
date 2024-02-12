@@ -1,10 +1,10 @@
-# ncop-app-ui
+# test-app
 
 ## Development Setup
 
 Use [nvm](https://github.com/nvm-sh/nvm) to node version management.
 
-then 
+then
 
 ```
 cd <project-name>
@@ -13,6 +13,7 @@ npm install
 ```
 
 to start the project
+
 ```
 npm start
 ```
